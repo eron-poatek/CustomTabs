@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomTabs Example</string>
+
+    <string name="open_custom_tab">Open Custom Tab</string>
+    <string name="hint_url">https://www.google.com</string>
+</resources>
